@@ -1,2 +1,1 @@
 # gibwork-demo-2
-.
