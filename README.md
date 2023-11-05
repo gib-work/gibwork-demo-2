@@ -1,3 +1,1 @@
 # gibwork-demo-2
-....
-sss
