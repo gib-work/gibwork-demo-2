@@ -6,7 +6,7 @@ import org.apache.catalina.startup.Tomcat;
 import java.io.File;
 
 /**
- * Created by aliriano on 7/18/17.
+ * Test
  */
 public class Application {
 
