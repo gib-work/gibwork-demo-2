@@ -2,7 +2,6 @@
 //!
 //! Use start_tcp_client() to create a client and then import BanksClientExt to
 //! access its methods. Additional "*_with_context" methods are also available,
-//! but they are undocumented, may change over time, and are generally more
 
 pub use {
     crate::error::BanksClientError,
