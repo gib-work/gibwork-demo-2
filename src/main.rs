@@ -1,6 +1,4 @@
 //! A client for the ledger state, from the perspective of an arbitrary validator.
-//!
-//! TEST.
 
 pub use {
     crate::error::BanksClientError,
